@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import pickle
 #import sklearn
-from sklearn.ensemble import RandomForestClassifier
+#from sklearn.ensemble import RandomForestClassifier
 
 st.title('Titanic passengers survival prediction')
 
